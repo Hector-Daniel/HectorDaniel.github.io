@@ -26,6 +26,7 @@ Utilizando una base de transacciones de tarjeta de crédito se realiza un EDA en
 
 - [LinkedIn](www.linkedin.com/in/hector-d-mejia)
 - Correo electrónico a hector.daniel.mejia.hernandez@gmail.com
+- www.linkedin.com/in/hector-d-mejia
 
 
 ---
