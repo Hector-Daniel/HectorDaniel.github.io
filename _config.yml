@@ -1,14 +1,13 @@
-title: Tu nombre y apellido # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Héctor Mejía # your name (or website title) here
+logo: ""C:\Users\Héctor\OneDrive\Antiguo\Imágenes\Álbum de cámara\WIN_20211001_12_16_02_Pro.jpg"" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist, Ciudad, País
+  Data Scientist, CDMX, México
   <br><br>
-  Mi objetivo es ___________
+  Mi objetivo es: Desarrollar e implementar modelos de ML para mitigar riesgos de crédito y fraude
   <br><br>
-  Tengo experiencia en ___________
+  Tengo experiencia en: Riesgo de crédito, Fraudes
   <br><br>
-  <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
-  <br><br>
-  <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+  <a href="www.linkedin.com/in/hector-d-mejia">Entra a mi perfil de LinkedIn</a> 
+
   
 theme: jekyll-theme-minimal
