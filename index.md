@@ -7,7 +7,7 @@
 
 Utilizando una base de transacciones de tarjeta de crédito se realiza un EDA enfocado a una Regresión logística. [Seguir leyendo en Medium](https://medium.com/@hector.daniel.mejia.hernandez/eda-y-regresi%C3%B3n-log%C3%ADstica-en-python-1b618ae7482c) o [Ver código en GitHub](https://github.com/Hector-Daniel/proyecto-portafolio/tree/main/Notebooks)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/graficos.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
 ---
 
